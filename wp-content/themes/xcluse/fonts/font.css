@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Nilland-SmallCaps-Bold';
+  src: url('Nilland-SmallCaps-Bold.eot');
+  src: url('Nilland-SmallCaps-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Nilland-SmallCaps-Bold.woff2') format('woff2'),
+       url('Nilland-SmallCaps-Bold.woff') format('woff'),
+       url('Nilland-SmallCaps-Bold.ttf') format('truetype'),
+       url('Nilland-SmallCaps-Bold.svg#Nilland-SmallCaps-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

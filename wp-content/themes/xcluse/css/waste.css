@@ -1,0 +1,24 @@
+ul.wishlist_review{text-align:center;font-size:15px;}
+.wishlist_review li{float:left;width:100%;padding:10px 0;}
+.wishlist_review li:nth-child(2){background:#fff !important;}
+.wishlist_review li:nth-child(odd){background:#FAFAFA;}
+grit_list{position:relative;min-height:1px;padding-right:15px;padding-left:15px;float:left;width:26%;}
+.grid-border-right{width:80%;position:relative;min-height:1px;padding-right:15px;padding-left:15px;float:left}
+.grid-border-left{width:20%;position:relative;min-height:1px;padding-right:15px;padding-left:15px;float:left;margin-top:405px;}
+.gritsectvalue li{text-align:right !important;}
+.gritsectvalue li:nth-child(odd){background:none !important;}
+.hover_similar li{float:left;padding:0 2px;}
+.similerproduct_hover{padding:10px;background-color:#000;float:left;color:#fff;}
+.similerproduct_hover{display:none;}
+.similer_product ul li{max-height:none !important;}
+.similerproduct_hover{width:100%;}
+.similer_list_imgsize .slick-list .multiple img{max-width:219px;max-height:218px;margin:0px;width:100%;}
+.similer_list_imgsize .slick-list .multiple{position:relative;width:277px !important;padding:0 22px;text-align:center;}
+.similer_list_imgsize .slick-slider{position:relative;display:block;margin-bottom:0px;}
+.wish_loading{text-align:center;}
+.similer_list_imgsize .special-price a{color:#fff;}
+.cls_btn{background:rgba(66, 66, 66, 1) none repeat scroll 0 0;border-radius:50%;padding:6px;position:absolute;right:0;top:0;color:#DFDFDF;}
+.cls_btn:hover{background:#fff;color:000;}
+.cls_btn:focus{color:#000;}
+.similer_list_imgsize .slick-slider .slick-next{background:rgba(255, 255, 255, 0.34) url("../images/sprite.png") no-repeat scroll -90px -40px;display:block;height:40px;margin-top:-20px;padding:0;position:absolute;right:-25px !important;text-indent:-9999px;top:50%;width:30px;}
+.similer_list_imgsize .slick-slider .slick-prev{background:rgba(255, 255, 255, 0.34) url("../images/sprite.png") no-repeat scroll -50px -40px;display:block;height:40px;left:-25px !important;margin-top:-20px;padding:0;position:absolute;text-indent:-9999px;top:50%;width:30px;}
